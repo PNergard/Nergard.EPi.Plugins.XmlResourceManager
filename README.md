@@ -1,0 +1,2 @@
+Nergard.EPi.Plugins.XmlResourceManager
+======================================
